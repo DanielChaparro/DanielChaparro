@@ -1,8 +1,8 @@
 ### ¡Hola! 👋 Soy Daniel, Desarrollador Full Stack apasionado por la tecnología y la innovación
 
-- 🔭 Actualmente trabajando en el desarrollo de aplicaciones empresariales con **Spring Boot**, **Angular** y **React**.  
+- 🔭 Actualmente trabajando en el desarrollo de aplicaciones empresariales con **Spring Boot**, **Node JS**, **Angular** y **React**.  
 - ⚙️ Me encanta diseñar soluciones escalables y eficientes basadas en **arquitectura de microservicios**.  
-- 🌱 En constante aprendizaje de nuevas herramientas y buenas prácticas, especialmente en **Kubernetes**, **CI/CD** y **DevOps**.  
+- 🌱 En constante aprendizaje de nuevas herramientas y buenas prácticas, especialmente en **Kubernetes**, **CI/CD**, **DevOps** y **Phyton**.  
 - 💬 Siempre dispuesto a compartir conocimientos sobre desarrollo web, backend, integración de APIs, y automatización de procesos.  
 - 🚀 Me motiva crear software que genere impacto real y mejore la vida de las personas.  
 - 🧠 Firme creyente del código limpio, el trabajo en equipo y la mejora continua.
